@@ -2,7 +2,7 @@
 
 Description
 
-Acid Marine is an interactive web-based project that generates a colorful wavy liquid by using Perlin Noise efffect.
+Acid Marine is an interactive web-based project that generates a colorful wavy liquid by using Double Pendulum Fractal.
 
 License
 
